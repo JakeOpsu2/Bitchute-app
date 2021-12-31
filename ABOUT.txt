@@ -1,0 +1,10 @@
+# Bitchute-app
+Bitchute App Is Androie And Ios By Bitchute, Relased on 2007,
+google()  // Google's Maven repository
+apply plugin: 'com.android.application'
+implementation platform('com.google.firebase:firebase-bom:29.0.3')
+implementation 'com.google.firebase:firebase-analytics'
+Made I'm Firebase On My YouTube video,
+Follow Me To Profile 
+[certification.txt](https://github.com/JakeOpsu2/Bitchute-app/files/7796085/certification.txt)
+[license.txt](https://github.com/JakeOpsu2/Bitchute-app/files/7796086/license.txt)
