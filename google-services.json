@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852855014450",
+    "project_id": "bitchute-account-2020",
+    "storage_bucket": "bitchute-account-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852855014450:android:232e249c0b60c63cd6a82b",
+        "android_client_info": {
+          "package_name": "com.bitchute.bitchute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852855014450-d1f6rh9b3t8k17jdcsvpd1d2qt74lg2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc3FGuP8HXtSbOJ-91edqP0sxPm742tEQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852855014450-d1f6rh9b3t8k17jdcsvpd1d2qt74lg2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
