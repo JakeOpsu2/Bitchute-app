@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the Bitchute 1.0
+---------------------------------------------------
+
+app_name - 						Bitchute
+app_alias - 					bitchute
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Banskobystricky kraj
+app_author_country - 			Slovakia
+app_password - 					Ryl2kUPMllV5
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Saturday 25th of December 2021 02:21:11 PM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
